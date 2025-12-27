@@ -10,7 +10,6 @@ A full-featured **real-time chat application** built with modern web technologie
 - 🔒 **Secure password hashing** using bcrypt
 - 💬 **Real-time messaging** with Socket.IO
 - 👥 **Live online users list**
-- 🎨 **Responsive UI** (Desktop & Mobile)
 - ⚡ **Fast & scalable** architecture
 - 📦 Clean project structure (MVC pattern)
 
